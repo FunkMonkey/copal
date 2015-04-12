@@ -1,0 +1,9 @@
+{
+  "name": "copal",
+  "version": "0.1.0",
+  "main": "copal.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
