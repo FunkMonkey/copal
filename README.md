@@ -43,3 +43,18 @@ Whatever you prefer:
 - That helpful command pal
 - Command-Palette, known from [Sublime Text](http://www.sublimetext.com/) and [Atom](https://atom.io/)
 - Copal as in [tree resin](http://en.wikipedia.org/wiki/Copal) - kinda gluey
+
+
+Development
+-----------
+
+### What is in this repository?
+
+CoPal is assembled from multiple packages. This repository has one job only: configuring a default set of CoPal extensions as a starter set and making 
+them ready for being packaged as an atom-shell application.
+
+It currently uses the following packages:
+- [copal-core](https://github.com/FunkMonkey/copal-core) - the core of the application and thus only package that is not optional
+- [copal-gui](https://github.com/FunkMonkey/copal-command-hotkeys)
+- [copal-command-hotkeys](https://github.com/FunkMonkey/copal-command-hotkeys)
+- [copal-opensearch](https://github.com/FunkMonkey/copal-opensearch)
