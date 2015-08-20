@@ -11,5 +11,9 @@
     "gulp-babel": "^4.0.0",
     "gulp-util": "^3.0.4",
     "gulp-sourcemaps": "^1.5.2"
+  },
+  "scripts": {
+    "start": "electron .",
+    "copal": "electron ."
   }
 }
