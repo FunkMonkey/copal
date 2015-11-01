@@ -1,3 +1,5 @@
+require('source-map-support').install();
+
 import path from "path";
 import fs from "fs-extra";
 import app from "app";
